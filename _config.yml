@@ -1,0 +1,20 @@
+title: Dungeon Isekai
+description: An unexplored underground dungeon in another world.
+show_downloads: false
+hide_github: true
+
+collections:
+  blog:
+    output: true
+    permalink: /:title/
+
+buttons:
+  - text: ""
+    href: "https://github.com/imoww10/blog/"
+
+remote_theme: pages-themes/cayman
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+url: https://imoww10.github.io
