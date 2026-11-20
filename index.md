@@ -33,10 +33,10 @@ Becoming an ideal human being.
 ## SOCIAL MEDIA:
 
 <ul>
-  <li><a href="https://youtu.be/L8iq_oyBmAg?si=pt2k5U6-jay0VbOD">Instagram</a></li>
-  <li><a href="https://youtu.be/L8iq_oyBmAg?si=pt2k5U6-jay0VbOD">𝕏</a></li>
-  <li><a href="https://youtu.be/L8iq_oyBmAg?si=pt2k5U6-jay0VbOD">Discord</a></li>
-  <li><a href="https://youtu.be/L8iq_oyBmAg?si=pt2k5U6-jay0VbOD">Bsky</a></li>
+  <li><a href="https://instagram.com/fbi" onclick="event.preventDefault(); window.location.href = 'https://youtu.be/L8iq_oyBmAg';">Instagram</a></li>
+  <li><a href="https://x.com/fbi" onclick="event.preventDefault(); window.location.href = 'https://youtu.be/L8iq_oyBmAg';">𝕏</a></li>
+  <li><a href="https://discord.gg/fbi" onclick="event.preventDefault(); window.location.href = 'https://youtu.be/L8iq_oyBmAg';">Discord</a></li>
+  <li><a href="https://bsky.app/profile/fbi.gov" onclick="event.preventDefault(); window.location.href = 'https://youtu.be/L8iq_oyBmAg';">Bsky</a></li>
 </ul>
 
 <div class="separator"></div>
